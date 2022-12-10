@@ -4,6 +4,8 @@ In the project directory, you can run: https://www.mafiamoves.co.uk/
 Instructions:
 
 1. Ensure NodeJS is configured properly on your device
-2. run `npm start` on terminal
-3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. open terminal
+3. run `npm install` to install react and needed packages
+4. run `npm start` to start web app
+5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
